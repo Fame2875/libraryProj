@@ -2,7 +2,6 @@
 .full-height {
   height: calc(100vh - 56px);
   background-size: cover;
-  border: 2px solid palevioletred;
   overflow-y: auto;
   }
   .background {
