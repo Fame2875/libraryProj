@@ -1,0 +1,10 @@
+.full-height {
+  height: 100vmax
+}
+.gray-transparent {
+  background-color: rgba(128, 128, 128, 0.5);
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}

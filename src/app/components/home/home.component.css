@@ -1,0 +1,24 @@
+.homebackground {
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.GobookListButton{
+  background-color: limegreen;
+  border: 1px solid limegreen;
+  border-radius: 10px;
+}
+.img{
+  height: 40%;
+  width: 40%;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+
+.full-height {
+  height: calc(100vh - 56px);
+  }
+
+
