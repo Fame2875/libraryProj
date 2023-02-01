@@ -5,4 +5,13 @@
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+  font-weight: bold;
+}
+.container {
+
+  overflow-y: auto;
+}
+
+td.bookdetail{
+  font-size: 18px;
 }
